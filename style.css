@@ -1,0 +1,28 @@
+
+
+body {
+    background:  linear-gradient(136.31deg,
+     #0C0F07 14.16%, #1F102B 59%, #23193E 82.63%);
+    
+}
+
+h1{
+    color: rgba(159, 127, 219, 0.8);
+    font-family: cursive;
+}
+
+.nav-item{
+    margin-top:-50px;
+    margin-right: 60px;
+}
+.nav-link{
+    color:#E0DAED;
+    font-size: 30px;
+    
+}
+
+
+  
+
+
+
